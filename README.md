@@ -17,7 +17,7 @@
  
 ## Glimpse of the webapp
 
-![Glimpse](https://github.com/Harshal131/IPL_score_prediction/blob/master/Model%20Findings/Glimpse.mp4)
+![Glimpse](https://github.com/Harshal131/IPL_score_prediction/blob/master/Model%20Findings/Glimpse.gif)
 
 ## Code and Resources Used
 
